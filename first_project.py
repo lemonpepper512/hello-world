@@ -10,13 +10,10 @@ import turtle #This imports the turtle module.
 my_turtle=turtle.Turtle()
 
 def my_square():
+    for i in range(4):
     my_turtle.forward(100) #Calling the variable n instead of manually inserting the units
     my_turtle.right(90) #turtle turns to the left 90 degrees
-    my_turtle.forward(100)
-    my_turtle.right(90)
-    my_turtle.forward(100)
-    my_turtle.right(90)
-    my_turtle.forward(100)
+    
 
 #Here we create a loop that should repeat our called function ten independent times
 #Just like defining a function, the loop ends with (): and the code below needs to be indented.
