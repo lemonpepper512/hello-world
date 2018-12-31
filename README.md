@@ -1,4 +1,4 @@
 # hello-world
 A place for ideas
 
-My name is Vince and this is a test.
+Trying to remember what I learned in Python :)
